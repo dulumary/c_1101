@@ -4,7 +4,7 @@
    
 ### [2. 변수의 타입](test02/README.md)    
 
-### [3. 변수 다루기 고급](test02/README.md)    
+### [3. 변수 다루기 고급](test03/README.md)    
    
 ### [4. 입력](test04/README.md)   
   
