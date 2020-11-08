@@ -4,8 +4,6 @@
 
 ### github site 문제
 * [5 - 6](../02_Variable/test/test01/README.md)
-* [5 - 6](../02_Variable/test/test02/README.md)
-* [4 - 5](../02_Variable/test/test03/README.md)
 
 ### codeup
 * [1004 ~ 1006](https://codeup.kr/problemsetsol.php?psid=9)
