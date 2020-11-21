@@ -1,5 +1,12 @@
 # 과제
 
+## Day 4 (2020-11-22)
+
+* [3 - 4](../03_Function/test/test02/README.md)
+
+* [1038 ~ 1046](https://codeup.kr/problemsetsol.php?psid=10)
+
+ 
 ## Day 3 (2020-11-15)
 
 ### github site 문제
