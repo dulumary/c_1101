@@ -17,7 +17,7 @@
 ### [예제 보기](03_Function/ex)
 ### [연습 문제](03_Function/test/README.md) 
 
-##  4. 제어문  
+##  4. 조건문  
 ### [강의 자료](04_Condition/README.md) 
 ### [예제 보기](04_Condition/ex)
 ### [연습 문제](04_Condition/test/README.md)  
