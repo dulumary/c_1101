@@ -1,5 +1,17 @@
 # 과제
 
+## Day 6 (2020-12-13)
+
+### github site 문제
+* [4](../04_Condition/test/test06/README.md)
+
+* [1 - 3](../04_Condition/test/test06/README.md) - (option)
+
+### codeup
+
+* [1152](https://codeup.kr/problem.php?id=1152), [1155](https://codeup.kr/problem.php?id=1155), [1157](https://codeup.kr/problem.php?id=1157), [1158](https://codeup.kr/problem.php?id=1162), [1164](https://codeup.kr/problem.php?id=1164),  [1228](https://codeup.kr/problem.php?id=1228)
+
+
 ## Day 5 (2020-12-06)
 
 ### github site 문제
