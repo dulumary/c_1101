@@ -3,6 +3,7 @@
 ## Day 6 (2020-12-13)
 
 ### github site 문제
+* [4 - 5](../04_Condition/test/test05/README.md)
 * [4](../04_Condition/test/test06/README.md)
 
 * [1 - 3](../04_Condition/test/test06/README.md) - (option)
