@@ -1,5 +1,12 @@
 # 과제
 
+## Day 7 (2020-12-20)
+
+### github site 문제
+*  [1 - 5](../05_Loop/test/test01/README.md)
+* [1 - 3](../05_Loop/test/test04/README.md)
+
+
 ## Day 6 (2020-12-13)
 
 ### github site 문제
