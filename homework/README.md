@@ -1,5 +1,12 @@
 # 과제
 
+## Day 9 (2021-01-03)
+
+### github site 문제
+* [4 - 6](../06_NestedLoop/test/test01/README.md)
+* [1 - 3](../06_NestedLoop/test/test02/README.md)
+
+ 
 ## Day 8 (2020-12-27)
 
 ### github site 문제
