@@ -1,5 +1,11 @@
 # 과제
 
+## Day 10 (2021-01-10)
+
+### github site 문제
+*  [5-8](../07_Array/test/test01/README.md)
+* [1-5](../07_Array/test/test02/README.md)
+
 ## Day 9 (2021-01-03)
 
 ### github site 문제
