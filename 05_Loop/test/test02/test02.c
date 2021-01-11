@@ -32,7 +32,7 @@ int main(int argc, const char * argv[]) {
     printf("\n");
     
     /*
-        1 ~ 100 사이에 7의 배수 갯수를 구하세요.
+        1 ~ 100 사이에 7의 배수 개수를 구하세요.
      */
     
     int count = 0;
@@ -42,7 +42,7 @@ int main(int argc, const char * argv[]) {
         }
     }
     
-    printf("7의 배수의 갯수는 : %d\n", count);
+    printf("7의 배수의 개수는 : %d\n", count);
     
     /*
         수를 입력 받아서 해당하는 단수의 구구단을 출력 하세요.
