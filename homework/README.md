@@ -4,7 +4,6 @@
 
 ### github site 문제
 *  [4-6](../07_Array/test/test04/README.md)
-* [1-5](../07_Array/test/test05/README.md)
 
 ## Day 10 (2021-01-10)
 
