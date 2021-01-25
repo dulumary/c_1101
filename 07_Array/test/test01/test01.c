@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(int argc, const char * argv[]) {
+int main() {
 
     int numbers[8] = {3, 8, 9, 4, 2, 1, 7, 5};
     /*
